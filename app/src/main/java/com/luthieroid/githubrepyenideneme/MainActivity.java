@@ -11,10 +11,16 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+    //Degisiklik yaptiginda MainActivity dosyasinin sol paneldeki rengi mavi oldu:
+    //Mavi => Kodda yaptigin bazi degisiklikler oldu ve bunlari Github'a henuz gondermedin!!
 
     private void TestUpload()
     {
         int i = 1+1;
+
+        int ii = 2+2;
+
+        int iii = i + ii;
     }
 
 }
